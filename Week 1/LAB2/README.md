@@ -8,7 +8,7 @@
 6. VM power states  ✔
 7. Management tasks  ✔
 
-### Notes: connected to VM with Putty inside of Azure CLI for this lab. 
+### Notes: connected to VM with Putty instead of Azure CLI for this lab. 
 
 Quickstart: Create a Linux VM
 * https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-vm
